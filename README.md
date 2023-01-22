@@ -18,7 +18,7 @@ Olá, sejam bem-vindos(as)!
 </p>
 
 ## 🗂️Link do projeto
-<a href= "https://izabela-franca.github.io/busca-cep/"> Clique aqui <a/>
+<a href= "https://izabela-franca.github.io/the-legend-of-zelda-project/"> Clique aqui <a/>
 
 ## 🚀 Tecnologias
 
