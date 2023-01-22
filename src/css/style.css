@@ -11,7 +11,7 @@ body {
 }
 
 .cabecalho .logo {
-  width: 150px;
+  width: 80px;
 }
 
 .cabecalho .menu {
@@ -23,7 +23,7 @@ body {
 .cabecalho nav li a {
   border-radius: 50px;
   color: #ffffff;
-  font-size: 25px;
+  font-size: 20px;
   font-weight: bold;
   padding: 10px 20px;
   transition: 0.3s;
@@ -52,7 +52,7 @@ body {
 
 .container .descricao {
   color: #a8abb7;
-  font-size: 20px;
+  font-size: 18px;
   margin: 30px 0;
   width: 85%;
 }
@@ -62,7 +62,7 @@ body {
   border: none;
   color: #ffffff;
   cursor: pointer;
-  font-size: 20px;
+  font-size: 18px;
   font-weight: bold;
   padding: 15px;
   text-transform: uppercase;
