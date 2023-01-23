@@ -38,16 +38,16 @@ body {
   display: flex;
   margin: 0 auto;
   max-width: 1440px;
-  height: calc(100vh - 114.8px);
+  height: calc(100vh - 118px);
   padding: 0 30px 30px;
 }
 
 .link {
-  max-width: 450px;
+  max-width: 400px;
 }
 
 .container .imagem-titulo {
-  max-width: 450px;
+  max-width: 400px;
 }
 
 .container .descricao {
