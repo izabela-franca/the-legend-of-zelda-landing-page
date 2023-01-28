@@ -31,7 +31,7 @@ O projeto deste portfólio foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Descrição
 
-Webpage sobre o lançamento de mais um jogo da franquia The Legend of Zelda.
+Landing page sobre o lançamento de mais um jogo da franquia The Legend of Zelda.
 
 
 ![image](https://user-images.githubusercontent.com/101933646/213915397-6218007c-4b14-4210-b1da-29260401ae61.png)
